@@ -5,6 +5,6 @@ This is book publisher website template, built using Bootstrap.
 - [Detail](https://wahyukusumo.github.io/book-publisher-template/detail.html) - Demo for book detail.
 
 ## Screenshot
-![Home Layout](/static/img/docs/index.png)
+![Home Layout](/static/img/docs/index.webp)
 
-![Product Layout](/static/img/docs/detail.png)
+![Product Layout](/static/img/docs/detail.webp)
